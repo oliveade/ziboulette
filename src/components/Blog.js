@@ -12,7 +12,7 @@ export default function Blog() {
                     <ul className="list-disc list-inside space-y-2 text-gray-600">
                         <li>Hydratez vos mains quotidiennement : une bonne hydratation est la base de tout.</li>
                         <li>Essayez nos soins signés <span className="font-semibold">Ziboulette</span> pour renforcer vos ongles.</li>
-                        <li>Appliquez une base avant tout vernis : c'est une règle d'or chez Ziboulette.</li>
+                        <li>Appliquez une base avant tout vernis : c'est la règle d'or chez Ziboulette.</li>
                         <li>Explorez nos designs <span className="font-semibold">Ziboulette</span> pour trouver celui qui correspond à votre style.</li>
                         <li>Ne sous-estimez jamais le pouvoir d'une finition parfaite !</li>
                     </ul>
